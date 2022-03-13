@@ -1,5 +1,5 @@
 # Docsify Simple Documentation Template
-> Under development...
+> Disclaimer: Under development and not ready for automatic usage.
 
 This repo intent to serve a template to create an awesome looking documentation page of markdown files using [docsify.js](https://docsify.js.org/) with few simple steps.
 
