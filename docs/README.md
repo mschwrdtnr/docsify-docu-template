@@ -1,6 +1,7 @@
 # Docsify Simple Documentation Template
-
 > Under development...
+
+This repo intent to serve a template to create an awesome looking documentation page of markdown files using [docsify.js](https://docsify.js.org/) with few simple steps.
 
 ## Features
 - Dark Mode Theme switch
