@@ -1,5 +1,5 @@
+  - [General](/10-General.md)
   - folder1
-    - [test](/folder1/test.md)
+    - [test](/20-folder1/test.md)
   - folder2
-    - [get started](/folder2/get-started.md)
-  - [General](/General.md)
+    - [get started](/30-folder2/get-started.md)
