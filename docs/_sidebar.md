@@ -1,5 +1,5 @@
-  - [General](/10-General.md)
-  - folder1
-    - [test](/20-folder1/test.md)
-  - folder2
-    - [get started](/30-folder2/get-started.md)
+  - [exampleFile](/10-exampleFile.md)
+  - exampleFolder1
+    - [exampleFile1](/20-exampleFolder1/exampleFile1.md)
+  - exampleFolder2
+    - [exampleFile2](/30-exampleFolder2/exampleFile2.md)
